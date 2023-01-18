@@ -6,3 +6,4 @@
 3. Sample_Pandas_GS.ipynb - примеры функций
 4. docs-gspread-org-en-latest.pdf - документация по GS
 5. https://openpyxl.readthedocs.io/en/stable/tutorial.html - totarial по работе с excel 
+6. https://pygsheets.readthedocs.io/en/latest/_modules/pygsheets/chart.html?highlight=ChartType - работа с гугл таблицами
